@@ -1,11 +1,7 @@
-# stinko's very cool and sigtastic profile
+# stinko's very cool profile
 
 info:
 - pronouns are he/him
-- trying to learn lua and haxe coding (mostly lua)
-- pretty active
+- active kind of
 
-# Repositories i contribute in
-[JS Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine)
-
-[Star Engine](https://github.com/SyncGit12/Star-Engine)
+by the way check out silliverse, mod im working on
